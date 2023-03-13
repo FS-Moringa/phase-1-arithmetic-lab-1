@@ -7,6 +7,7 @@ describe('index.js', function() {
       expect(num1).to.be.a('number')
       expect(num2).to.be.a('number')
       expect(multiply).to.eq(62)
+//       function refernce equal to a number 
     });
   });
   describe('random', function() {
